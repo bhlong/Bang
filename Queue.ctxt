@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\n\ Queue\ with\ parameterized\ type.\n\ \n\ @author\ Mr.\ Chan\ \n\ @version\ September\ 2015\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\n\ @return\ True\ if\ this\ queue\ is\ empty\n
+comment2.params=item
+comment2.target=void\ enqueue(java.lang.Object)
+comment2.text=\n\ Enqueues\ (puts)\ an\ item\ into\ queue.\n\ @param\ item\ An\ object\ of\ type\ T\n
+comment3.params=
+comment3.target=java.lang.Object\ dequeue()
+comment3.text=\n\ Returns\ the\ first\ item\ from\ the\ queue\n\ @return\ An\ item\ of\ type\ T\n
+numComments=4

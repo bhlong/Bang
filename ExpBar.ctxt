@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ExpBar
+comment0.text=\n\ Write\ a\ description\ of\ class\ ExpBar\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ExpBar()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ ExpBar\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=void\ spawnISIS()
+comment5.params=
+comment5.target=void\ spawnShooter()
+comment6.params=
+comment6.target=void\ spawnShooter2()
+comment7.params=amount
+comment7.target=void\ expIncrease(int)
+numComments=8

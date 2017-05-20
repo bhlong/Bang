@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shooterr
+comment0.text=\n\ Write\ a\ description\ of\ class\ Shooter2\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Shooterr\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=a1\ a2
+comment2.target=double\ findDistanceBetween(greenfoot.Actor,\ greenfoot.Actor)
+comment3.params=amount
+comment3.target=void\ decreaseHealth(int)
+comment4.params=atime
+comment4.target=void\ animate(int)
+numComments=5
