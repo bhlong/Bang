@@ -141,6 +141,7 @@ public class ExpBar extends Actor
             increase = increase +10;
             pixelPerExp = expBarWidth/expRequired;
             interval-=5;
+            Greenfoot.playSound("levelup.wav");
         }
     }
 }
